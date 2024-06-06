@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/wscourge.gpg] https://wscourge.github.io/ppa/apt ./
