@@ -22,9 +22,9 @@ sudo apt install safe-utils
 Resources:
 
 - [Hosting your own PPA repository on GitHub](https://assafmo.github.io/2019/05/02/ppa-repo-hosted-on-github.html)
-- [Athrunsun's self-hosted Githb PPA example](https://github.com/athrunsun/ppa)
+- [Athrunsun's self-hosted Github PPA example](https://github.com/athrunsun/ppa)
 
-## Use `yum` packages
+<!-- ## Use `yum` packages
 
 To define this Repository as an installation source, create a `/etc/yum.repos.d/wscourge.repo` file:
 
@@ -48,3 +48,49 @@ Resources:
 
 - [Guide to Establishing and Hosting a Remote Yum Repository on GitHub](https://medium.com/debugging-diaries/guide-to-establishing-and-hosting-a-remote-yum-repository-on-github-b8326b60ac68)
 - [HOWTO: GPG sign and verify RPM packages and yum repositories](https://blog.packagecloud.io/how-to-gpg-sign-and-verify-rpm-packages-and-yum-repositories/)
+
+## Use `dnf` packages
+
+To define this Repository as an installation source, create a `/etc/yum.repos.d/wscourge.repo` file:
+
+```
+[wscourge]
+name=Wscourge GitHub Repository
+baseurl=https://wscourge.github.io/ppa/yum
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://wscourge.github.io/ppa/public.gpg
+```
+
+Then, install the package(s):
+
+```bash
+dnf install safe-utils
+```
+
+Resources:
+
+- [Guide to Establishing and Hosting a Remote Yum Repository on GitHub](https://medium.com/debugging-diaries/guide-to-establishing-and-hosting-a-remote-yum-repository-on-github-b8326b60ac68)
+- [HOWTO: GPG sign and verify RPM packages and yum repositories](https://blog.packagecloud.io/how-to-gpg-sign-and-verify-rpm-packages-and-yum-repositories/)
+
+## Use `pacman` packages
+
+To define this Repository as an installation source, add the following to a `/etc/pacman.conf` file:
+
+```
+[wscourge]
+SigLevel = Optional
+Server = https://wscourge.github.io/ppa/pacman/repo
+```
+
+Then update the repository:
+
+```
+sudo pacman -Sy
+```
+
+Resources:
+- [KSXGitHub's self-hosted Github pacman repo example](https://github.com/KSXGitHub/pacman-repo)
+
+ -->
