@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Date: Fri, 07 Jun 2024 11:08:37 +0000
+MD5Sum:
+ 20cee11bf0cfb9bca195cc3875754db6              636 Packages
+ d833dc9d3b11356c11dbb7ee2e940d44              468 Packages.gz
+ c29c7f0348abb28bd1a490ccb90e4df3               38 Release
+SHA1:
+ 340f34bc491c7909b8c913a95c4a7ebae6bafbd7              636 Packages
+ c7d6711cb4d3c1a83de92eaba489f1ef24a6d560              468 Packages.gz
+ 5f143d39ab512fad0d9d953bd3e270987e387f36               38 Release
+SHA256:
+ aece6f061a964d873671a2ba821202c8419341375cfd4e61c2d6382318a00aaf              636 Packages
+ 261354ce7ad69f9d585186ebe788c3570613c9389d176acabcd3392fd07c4001              468 Packages.gz
+ 496c13362fcbb4a9a84415a9ec87b5ea3554a882acb2830eca028c322f124856               38 Release
+SHA512:
+ 8fa8a763167f4f4f38a1a9d9044c64798968ce0dc5d449eb32de446ffba31bcb310fd00f377ef6b0d6a1ffe9370c427ef78de02ba5e2e67c4883c09f241b33ac              636 Packages
+ de1405e7abd30aee5be9171b62954fcbd30e8aa018481f2683a33c3c12e1a2156c13957acc359b92e5332b94381c601b72c00311e154f535bcd249f337924368              468 Packages.gz
+ 745b2a5403f0d1b09fe345d01297fef7523636e76b37202626ed63c553ff2ac764508b1d96af7a5098f4a2d3c17f19b3cd5cfb74ed0dc93c1b0cdfcec4469122               38 Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEE+X0XThD8tUteZpZQh8pTwpbrYt0FAmZi6jYVHHdpa3Rvci5w
+bGFnYUB0emlmLmlvAAoJEIfKU8KW62LdhicP/1VZO7mx1fnhGdSeTe8P/epN1uWX
+h2HUaLMP+hYLlKQogkjxJiAK6RvHhEtYPxhuOWVtKoxYKRDO4B/coIk56A9FC30j
+e+N3/fnBtn878OQ2vIP/PxNtrTSMq8zA0R3sj9XGD332dl0Q/PDA/MD5LWTe+yIu
+N1wZo2OaOjtujZqoLIaEtGga4OzP317492SwWAmK0BzG0rMVlmKKDss9ljxPqgoD
+PLtcDFyMDl7ccYsKeuI8POdhzVhp2ayyrYyKlq5EFGr1TNbGhq8RgHAoRQHZusjC
+duCmYH3+ttCBlMacU0g0pXjsW/xNoKMFh9hnbc9C0oSLOxHhkKhv0xUmPZP7QRh3
+7hSKqtFRt7vh6Fziys7lpsAH3mCssazxPm3Uhrctz8Yqj3KGmByFNINHG16Zg8XW
+fjY8acV8aaOtjfHjaDpwdwW2d41oO0Mz2/WWR+BVl34kOk4IMlt88NImkoL59LXK
+S7g4yorV/NH0AnKUSSx+KJTnknGJ4ryxrnNY55u6MxXKZcLl6xYat6n0xuNaGHK5
+2IXi//dvJa3ngNm06+6GhQih2HCqtGSZEUOPiOxxDygqzyl17QI0NlvlyIE/wD/b
+iWGrF1Ji9Ujk9DlViWpDrf+j+jNAprhFm9lZFA/8fRNxlYvrgVZWukhKV9xlXAtM
+ATncqr2ENh3Sll+R
+=Ilnu
+-----END PGP SIGNATURE-----
