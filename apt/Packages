@@ -93,3 +93,19 @@ Homepage: https://safeutils.com
 Description: SafeUtils
  Security-first workflow for your team. 110+ carefully crafted tools that teams use daily. Native apps for all platforms, and a web app for the rest. Work offline and keep your data safe.
 
+Package: safe-utils
+Version: 0.0.6
+Architecture: amd64
+Maintainer: Wiktor Plaga
+Installed-Size: 34839
+Depends: libayatana-appindicator3-1, libwebkit2gtk-4.0-37, libgtk-3-0
+Filename: ./safe-utils_0.0.6_amd64.deb
+Size: 20898688
+MD5sum: fc338f7577e524e22b34bd8b548941a4
+SHA1: 95cc56bcb89ddc8c7b4085933675940492b62d48
+SHA256: dc4f6e44f6f6c89953352aeed0b40fd2bcc21f97de1dba2a7e11ff90d6f728cf
+Priority: optional
+Homepage: https://safeutils.com
+Description: SafeUtils
+ Security-first workflow for your team. 110+ carefully crafted tools that teams use daily. Native apps for all platforms, and a web app for the rest. Work offline and keep your data safe.
+
