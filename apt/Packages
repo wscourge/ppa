@@ -161,13 +161,13 @@ Package: safe-utils
 Version: 1.0.0
 Architecture: amd64
 Maintainer: Wiktor Plaga
-Installed-Size: 39412
+Installed-Size: 39708
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: ./SafeUtils_1.0.0_amd64.deb
-Size: 22355524
-MD5sum: c2274242d3f2db6d61742bc4ad8b9926
-SHA1: 41bd4c6a35b26dd97b9f7e10ae2aa7c46d0f1ad9
-SHA256: 95a15611eeb4574b25e9da38a1c441077612f617f339a9bd5451eca03e0345b0
+Size: 22513666
+MD5sum: 64cd390e138050249559b2f74491648b
+SHA1: 411a3f854f71e28e1a339e532ed26472dc8e083d
+SHA256: f7a570902bf9135e6adadb11a9c56c303678290527af8dd5d444c27d15c1bb54
 Priority: optional
 Homepage: https://safeutils.com
 Description: SafeUtils
