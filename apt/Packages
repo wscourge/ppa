@@ -180,10 +180,10 @@ Maintainer: Wiktor Plaga
 Installed-Size: 43304
 Depends: libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
 Filename: ./SafeUtils_1.1.0_amd64.deb
-Size: 23758896
-MD5sum: e3285931e2a6baa0f19ccb0b3f91e20d
-SHA1: 28d84188f61570ede0df88ab63138ceb189b986b
-SHA256: 172270edca070404dfff0ea9af360dcb72a7689377940cefac417c3c552bd2cc
+Size: 23758488
+MD5sum: cf5ba7433aa24f9a85063d062652728b
+SHA1: b7dcec17783ca4af5048d5f0905e881db56d475a
+SHA256: 990b23bc6e5b45c6026ae225ccb67bbe815f5197f74b359340e8340b214622ad
 Priority: optional
 Homepage: https://safeutils.com
 Description: SafeUtils
